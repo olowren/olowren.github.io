@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Freq ports par types de navires</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.9.1/chart.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+        .section {
+            margin-bottom: 30px;
+        }
+        input[type="file"], input[type="text"] {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+        button {
+            background-color: #007bff;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            margin: 5px 10px 5px 0;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+        #chartContainer {
+            margin-top: 30px;
+            display: none;
+        }
+        .search-section {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    
+    <div class="section">
+        <input type="file" id="fileInput" accept=".csv">
+    </div>
+
+    <div class="search-section" id="searchSection">
+        <div class="section">
+            <input type="text" id="portId" placeholder="ID du port">
+            <button onclick="searchByPort()">Rechercher Port</button>
+        </div>
+
+        <div class="section">
+            <input type="text" id="countryCode" placeholder="Code pays">
+            <button onclick="searchByCountry()">Rechercher Pays</button>
+        </div>
+    </div>
+
+    <div id="chartContainer">
+        <canvas id="chartCanvas"></canvas>
+    </div>
+
+    <script>
+        let csvData = [];
+        let currentChart = null;
+        const shipTypes = [ 'bulk', 'cont', 'crui', 'gcar', 'iisl', 'serv', 'tank'];
+
+        document.getElementById('fileInput').addEventListener('change', handleFile);
+
+        function handleFile(e) {
+            const file = e.target.files[0];
+            if (!file) return;
+
+            const reader = new FileReader();
+            reader.onload = function(e) {
+                const csvText = e.target.result;
+                csvData = parseCSV(csvText);
+                document.getElementById('searchSection').style.display = 'block';
+            };
+            reader.readAsText(file, 'UTF-8');
+        }
+
+        function parseCSV(csvText) {
+            const lines = csvText.trim().split('\n');
+            const headers = lines[0].split(',').map(h => h.trim().replace(/"/g, ''));
+            const data = [];
+            
+            for (let i = 1; i < lines.length; i++) {
+                const values = lines[i].split(',').map(v => v.trim().replace(/"/g, ''));
+                const row = {};
+                headers.forEach((header, index) => {
+                    let value = values[index];
+                    if (value && !isNaN(value)) value = parseFloat(value);
+                    row[header] = value;
+                });
+                if (row.port_id) data.push(row); // <-- ici
+            }
+            return data;
+        }
+
+        function searchByPort() {
+            const portId = document.getElementById('portId').value.trim();
+            const portData = csvData.find(row => row.port_id && row.port_id.toString() === portId); // <-- ici
+            if (portData) {
+                const chartData = {
+                    labels: shipTypes,
+                    datasets: [{
+                        label: `Port ${portId}`,
+                        data: shipTypes.map(type => portData[type] || 0),
+                        backgroundColor: ['#FF6384', '#36A2EB', '#FFCE56', '#4BC0C0', '#9966FF', '#FF9F40', '#FF6B9D', '#C9CBCF']
+                    }]
+                };
+                createChart(chartData);
+            }
+        }
+
+        function searchByCountry() {
+            const countryCode = document.getElementById('countryCode').value.trim().toUpperCase();
+            const countryPorts = csvData.filter(row => row.country_code && row.country_code.toUpperCase() === countryCode);
+            if (countryPorts.length > 0) {
+                const aggregatedData = shipTypes.map(type => 
+                    countryPorts.reduce((sum, port) => sum + (port[type] || 0), 0)
+                );
+                const chartData = {
+                    labels: shipTypes,
+                    datasets: [{
+                        label: `Pays ${countryCode}`,
+                        data: aggregatedData,
+                        backgroundColor: ['#FF6384', '#36A2EB', '#FFCE56', '#4BC0C0', '#9966FF', '#FF9F40', '#FF6B9D', '#C9CBCF']
+                    }]
+                };
+                createChart(chartData);
+            }
+        }
+
+        function createChart(data) {
+            const ctx = document.getElementById('chartCanvas').getContext('2d');
+            if (currentChart) currentChart.destroy();
+            currentChart = new Chart(ctx, {
+                type: 'bar',
+                data: data,
+                options: {
+                    responsive: true,
+                    scales: { y: { beginAtZero: true } }
+                }
+            });
+            document.getElementById('chartContainer').style.display = 'block';
+        }
+    </script>
+</body>
+</html>
