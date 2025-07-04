@@ -281,10 +281,7 @@
                     ${d.angle > Math.PI ? "rotate(180)" : ""}
                 `)
                 .attr("text-anchor", d => d.angle > Math.PI ? "end" : "start")
-                .text(d => {
-                    const portName = data[d.index].name;
-                    return portName.split('.')[2] || portName.split('.')[1] || d.index + 1;
-                });
+                .text(d => data[d.index].portname || d.index + 1);
         }
 
         function fadeOthers(targetIndex, opacity) {
