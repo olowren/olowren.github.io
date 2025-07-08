@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "description": "Optimized Navigation Patterns - port 31 bulk",
+    "total_patterns": 1,
+    "total_ports": 2,
+    "special_ports": [
+      999,
+      997,
+      998
+    ],
+    "data_source": "prefixspan_port_31_bulk.csv",
+    "filtering_applied": true,
+    "avg_importance_score": 0.8222222222222222
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.389744703907716,
+          15.307304018653623
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 69,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "DMA",
+        "country_name": "Dominica",
+        "port_name": "Roseau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.04619865190779,
+          18.01207658933305
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 31,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "SXM",
+        "country_name": "Sint Marteen",
+        "port_name": "Philipsburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -63.04619865190779,
+            18.01207658933305
+          ],
+          [
+            -61.389744703907716,
+            15.307304018653623
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 0,
+        "frequency": 18,
+        "support_count": 2,
+        "ports_sequence": [
+          31,
+          69
+        ],
+        "ports_count": 2,
+        "ports_string": "31 → 69",
+        "countries_visited": [
+          "SXM",
+          "DMA"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1111,
+        "importance_score": 0.8222,
+        "is_generated_segment": false,
+        "has_special_ports": false,
+        "special_ports_in_pattern": []
+      }
+    }
+  ]
+}

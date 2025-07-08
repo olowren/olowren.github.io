@@ -1,0 +1,1337 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "description": "Optimized Navigation Patterns - port 79 tank",
+    "total_patterns": 24,
+    "total_ports": 17,
+    "special_ports": [
+      999,
+      997,
+      998
+    ],
+    "data_source": "prefixspan_port_79_tank.csv",
+    "filtering_applied": true,
+    "avg_importance_score": 0.3347928776005564
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.71917415840583,
+          17.289954601096934
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 32,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "KNA",
+        "country_name": "Saint Kitts and Nevis",
+        "port_name": "Basseterre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.470887888261686,
+          10.32069109409585
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 65,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "TTO",
+        "country_name": "Trinidad and Tobago",
+        "port_name": "Pointe a Pierre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.188070688768136,
+          12.879853216271622
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 34,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "VCT",
+        "country_name": "Saint Vincent and the Grenadines",
+        "port_name": "Mustique"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.99406398448652,
+          14.011516182730462
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 35,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "LCA",
+        "country_name": "Saint Lucia",
+        "port_name": "Castries"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.27532229104023,
+          4.853577794655145
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 324,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "GUF",
+        "country_name": "French Guyana",
+        "port_name": "Degrad des Cannes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.061509850102155,
+          14.599826650835857
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 5,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "MTQ",
+        "country_name": "Martinique",
+        "port_name": "Fort-de-France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.75465222921322,
+          12.076754865123362
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 37,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "GRD",
+        "country_name": "Grenada",
+        "port_name": "Grand Mal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.10276221631595,
+          18.451955705973642
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 200,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "PRI",
+        "country_name": "Puerto Rico",
+        "port_name": "San Juan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.490928792017534,
+          10.394481242262778
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 73,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "TTO",
+        "country_name": "Trinidad and Tobago",
+        "port_name": "Point Lisas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.94431793583968,
+          18.333321661314283
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 76,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "VIR",
+        "country_name": "United States Virgin Islands",
+        "port_name": "St Thomas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.76590892329642,
+          26.523239369198407
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 300,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "BHS",
+        "country_name": "Bahamas",
+        "port_name": "Freeport"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.54185390048764,
+          16.23525338646997
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 79,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "GLP",
+        "country_name": "Guadeloupe",
+        "port_name": "Pointe-a-Pitre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.7537655432405,
+          17.697630016925242
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 18,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "VIR",
+        "country_name": "United States Virgin Islands",
+        "port_name": "Limetree Bay"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.60935034225169,
+          18.42263882004541
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 52,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "VGB",
+        "country_name": "British Virgin Islands",
+        "port_name": "Road Town"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.0009649485596,
+          17.494348487049106
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 23,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "BES",
+        "country_name": "Bonaire, Sint Eustatius and Saba",
+        "port_name": "Oranjestad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.1692677229468,
+          6.808161052689902
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 316,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "GUY",
+        "country_name": "Guyana",
+        "port_name": "Georgetown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.08675551647376,
+          18.024911914259278
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 95,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "SXM",
+        "country_name": "Sint Marteen",
+        "port_name": "Coles Bay"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.54185390048764,
+            16.23525338646997
+          ],
+          [
+            -61.061509850102155,
+            14.599826650835857
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 0,
+        "frequency": 276,
+        "support_count": 9,
+        "ports_sequence": [
+          79,
+          5
+        ],
+        "ports_count": 2,
+        "ports_string": "79 → 5",
+        "countries_visited": [
+          "GLP",
+          "MTQ"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.0326,
+        "importance_score": 0.7732,
+        "is_generated_segment": false,
+        "has_special_ports": false,
+        "special_ports_in_pattern": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -60.99406398448652,
+            14.011516182730462
+          ],
+          [
+            -61.54185390048764,
+            16.23525338646997
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 2,
+        "frequency": 186,
+        "support_count": 8,
+        "ports_sequence": [
+          35,
+          79
+        ],
+        "ports_count": 2,
+        "ports_string": "35 → 79",
+        "countries_visited": [
+          "LCA",
+          "GLP"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.043,
+        "importance_score": 0.6115,
+        "is_generated_segment": false,
+        "has_special_ports": false,
+        "special_ports_in_pattern": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.54185390048764,
+            16.23525338646997
+          ],
+          [
+            -66.10276221631595,
+            18.451955705973642
+          ],
+          [
+            -64.94431793583968,
+            18.333321661314283
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 43,
+        "frequency": 3,
+        "support_count": 3,
+        "ports_sequence": [
+          79,
+          200,
+          76
+        ],
+        "ports_count": 3,
+        "ports_string": "79 → 200 → 76",
+        "countries_visited": [
+          "GLP",
+          "PRI",
+          "VIR"
+        ],
+        "countries_count": 3,
+        "pattern_length": 3,
+        "support_rate": 1.0,
+        "importance_score": 0.4043,
+        "is_generated_segment": false,
+        "has_special_ports": false,
+        "special_ports_in_pattern": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.54185390048764,
+            16.23525338646997
+          ],
+          [
+            -61.061509850102155,
+            14.599826650835857
+          ],
+          [
+            -64.7537655432405,
+            17.697630016925242
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 26,
+        "frequency": 11,
+        "support_count": 5,
+        "ports_sequence": [
+          79,
+          5,
+          18
+        ],
+        "ports_count": 3,
+        "ports_string": "79 → 5 → 18",
+        "countries_visited": [
+          "GLP",
+          "MTQ",
+          "VIR"
+        ],
+        "countries_count": 3,
+        "pattern_length": 3,
+        "support_rate": 0.4545,
+        "importance_score": 0.3735,
+        "is_generated_segment": false,
+        "has_special_ports": false,
+        "special_ports_in_pattern": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.470887888261686,
+            10.32069109409585
+          ],
+          [
+            -60.99406398448652,
+            14.011516182730462
+          ],
+          [
+            -61.54185390048764,
+            16.23525338646997
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 49,
+        "frequency": 2,
+        "support_count": 2,
+        "ports_sequence": [
+          65,
+          35,
+          79
+        ],
+        "ports_count": 3,
+        "ports_string": "65 → 35 → 79",
+        "countries_visited": [
+          "TTO",
+          "LCA",
+          "GLP"
+        ],
+        "countries_count": 3,
+        "pattern_length": 3,
+        "support_rate": 1.0,
+        "importance_score": 0.3696,
+        "is_generated_segment": false,
+        "has_special_ports": false,
+        "special_ports_in_pattern": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.061509850102155,
+            14.599826650835857
+          ],
+          [
+            -61.54185390048764,
+            16.23525338646997
+          ],
+          [
+            -61.470887888261686,
+            10.32069109409585
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 50,
+        "frequency": 2,
+        "support_count": 2,
+        "ports_sequence": [
+          5,
+          79,
+          65
+        ],
+        "ports_count": 3,
+        "ports_string": "5 → 79 → 65",
+        "countries_visited": [
+          "MTQ",
+          "GLP",
+          "TTO"
+        ],
+        "countries_count": 3,
+        "pattern_length": 3,
+        "support_rate": 1.0,
+        "importance_score": 0.3696,
+        "is_generated_segment": false,
+        "has_special_ports": false,
+        "special_ports_in_pattern": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.54185390048764,
+            16.23525338646997
+          ],
+          [
+            -61.490928792017534,
+            10.394481242262778
+          ],
+          [
+            -58.1692677229468,
+            6.808161052689902
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 52,
+        "frequency": 2,
+        "support_count": 2,
+        "ports_sequence": [
+          79,
+          73,
+          316
+        ],
+        "ports_count": 3,
+        "ports_string": "79 → 73 → 316",
+        "countries_visited": [
+          "GLP",
+          "TTO",
+          "GUY"
+        ],
+        "countries_count": 3,
+        "pattern_length": 3,
+        "support_rate": 1.0,
+        "importance_score": 0.3696,
+        "is_generated_segment": false,
+        "has_special_ports": false,
+        "special_ports_in_pattern": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.061509850102155,
+            14.599826650835857
+          ],
+          [
+            -61.54185390048764,
+            16.23525338646997
+          ],
+          [
+            -66.10276221631595,
+            18.451955705973642
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 54,
+        "frequency": 2,
+        "support_count": 2,
+        "ports_sequence": [
+          5,
+          79,
+          200
+        ],
+        "ports_count": 3,
+        "ports_string": "5 → 79 → 200",
+        "countries_visited": [
+          "MTQ",
+          "GLP",
+          "PRI"
+        ],
+        "countries_count": 3,
+        "pattern_length": 3,
+        "support_rate": 1.0,
+        "importance_score": 0.3696,
+        "is_generated_segment": false,
+        "has_special_ports": false,
+        "special_ports_in_pattern": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -60.99406398448652,
+            14.011516182730462
+          ],
+          [
+            -61.54185390048764,
+            16.23525338646997
+          ],
+          [
+            -61.061509850102155,
+            14.599826650835857
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 23,
+        "frequency": 14,
+        "support_count": 5,
+        "ports_sequence": [
+          35,
+          79,
+          5
+        ],
+        "ports_count": 3,
+        "ports_string": "35 → 79 → 5",
+        "countries_visited": [
+          "LCA",
+          "GLP",
+          "MTQ"
+        ],
+        "countries_count": 3,
+        "pattern_length": 3,
+        "support_rate": 0.3571,
+        "importance_score": 0.3584,
+        "is_generated_segment": false,
+        "has_special_ports": false,
+        "special_ports_in_pattern": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -78.76590892329642,
+            26.523239369198407
+          ],
+          [
+            -61.54185390048764,
+            16.23525338646997
+          ],
+          [
+            -61.061509850102155,
+            14.599826650835857
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 38,
+        "frequency": 4,
+        "support_count": 3,
+        "ports_sequence": [
+          300,
+          79,
+          5
+        ],
+        "ports_count": 3,
+        "ports_string": "300 → 79 → 5",
+        "countries_visited": [
+          "BHS",
+          "GLP",
+          "MTQ"
+        ],
+        "countries_count": 3,
+        "pattern_length": 3,
+        "support_rate": 0.75,
+        "importance_score": 0.3558,
+        "is_generated_segment": false,
+        "has_special_ports": false,
+        "special_ports_in_pattern": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.061509850102155,
+            14.599826650835857
+          ],
+          [
+            -60.99406398448652,
+            14.011516182730462
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 11,
+        "frequency": 31,
+        "support_count": 6,
+        "ports_sequence": [
+          5,
+          35
+        ],
+        "ports_count": 2,
+        "ports_string": "5 → 35",
+        "countries_visited": [
+          "MTQ",
+          "LCA"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1935,
+        "importance_score": 0.3503,
+        "is_generated_segment": false,
+        "has_special_ports": false,
+        "special_ports_in_pattern": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -63.08675551647376,
+            18.024911914259278
+          ],
+          [
+            -64.60935034225169,
+            18.42263882004541
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 53,
+        "frequency": 2,
+        "support_count": 2,
+        "ports_sequence": [
+          95,
+          52
+        ],
+        "ports_count": 2,
+        "ports_string": "95 → 52",
+        "countries_visited": [
+          "SXM",
+          "VGB"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 1.0,
+        "importance_score": 0.3362,
+        "is_generated_segment": false,
+        "has_special_ports": false,
+        "special_ports_in_pattern": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.490928792017534,
+            10.394481242262778
+          ],
+          [
+            -61.061509850102155,
+            14.599826650835857
+          ],
+          [
+            -61.54185390048764,
+            16.23525338646997
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 34,
+        "frequency": 5,
+        "support_count": 3,
+        "ports_sequence": [
+          73,
+          5,
+          79
+        ],
+        "ports_count": 3,
+        "ports_string": "73 → 5 → 79",
+        "countries_visited": [
+          "TTO",
+          "MTQ",
+          "GLP"
+        ],
+        "countries_count": 3,
+        "pattern_length": 3,
+        "support_rate": 0.6,
+        "importance_score": 0.3272,
+        "is_generated_segment": false,
+        "has_special_ports": false,
+        "special_ports_in_pattern": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -64.7537655432405,
+            17.697630016925242
+          ],
+          [
+            -61.54185390048764,
+            16.23525338646997
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 4,
+        "frequency": 72,
+        "support_count": 4,
+        "ports_sequence": [
+          18,
+          79
+        ],
+        "ports_count": 2,
+        "ports_string": "18 → 79",
+        "countries_visited": [
+          "VIR",
+          "GLP"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.0556,
+        "importance_score": 0.3155,
+        "is_generated_segment": false,
+        "has_special_ports": false,
+        "special_ports_in_pattern": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -63.0009649485596,
+            17.494348487049106
+          ],
+          [
+            -61.54185390048764,
+            16.23525338646997
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 5,
+        "frequency": 72,
+        "support_count": 4,
+        "ports_sequence": [
+          23,
+          79
+        ],
+        "ports_count": 2,
+        "ports_string": "23 → 79",
+        "countries_visited": [
+          "BES",
+          "GLP"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.0556,
+        "importance_score": 0.3155,
+        "is_generated_segment": false,
+        "has_special_ports": false,
+        "special_ports_in_pattern": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -63.0009649485596,
+            17.494348487049106
+          ],
+          [
+            -61.54185390048764,
+            16.23525338646997
+          ],
+          [
+            -61.061509850102155,
+            14.599826650835857
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 46,
+        "frequency": 3,
+        "support_count": 2,
+        "ports_sequence": [
+          23,
+          79,
+          5
+        ],
+        "ports_count": 3,
+        "ports_string": "23 → 79 → 5",
+        "countries_visited": [
+          "BES",
+          "GLP",
+          "MTQ"
+        ],
+        "countries_count": 3,
+        "pattern_length": 3,
+        "support_rate": 0.6667,
+        "importance_score": 0.3043,
+        "is_generated_segment": false,
+        "has_special_ports": false,
+        "special_ports_in_pattern": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -63.08675551647376,
+            18.024911914259278
+          ],
+          [
+            -62.71917415840583,
+            17.289954601096934
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 47,
+        "frequency": 3,
+        "support_count": 2,
+        "ports_sequence": [
+          95,
+          32
+        ],
+        "ports_count": 2,
+        "ports_string": "95 → 32",
+        "countries_visited": [
+          "SXM",
+          "KNA"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.6667,
+        "importance_score": 0.271,
+        "is_generated_segment": false,
+        "has_special_ports": false,
+        "special_ports_in_pattern": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -66.10276221631595,
+            18.451955705973642
+          ],
+          [
+            -61.061509850102155,
+            14.599826650835857
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 40,
+        "frequency": 4,
+        "support_count": 2,
+        "ports_sequence": [
+          200,
+          5
+        ],
+        "ports_count": 2,
+        "ports_string": "200 → 5",
+        "countries_visited": [
+          "PRI",
+          "MTQ"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.5,
+        "importance_score": 0.2391,
+        "is_generated_segment": false,
+        "has_special_ports": false,
+        "special_ports_in_pattern": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.470887888261686,
+            10.32069109409585
+          ],
+          [
+            -61.54185390048764,
+            16.23525338646997
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 10,
+        "frequency": 36,
+        "support_count": 3,
+        "ports_sequence": [
+          65,
+          79
+        ],
+        "ports_count": 2,
+        "ports_string": "65 → 79",
+        "countries_visited": [
+          "TTO",
+          "GLP"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.0833,
+        "importance_score": 0.2355,
+        "is_generated_segment": false,
+        "has_special_ports": false,
+        "special_ports_in_pattern": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.54185390048764,
+            16.23525338646997
+          ],
+          [
+            -63.08675551647376,
+            18.024911914259278
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 14,
+        "frequency": 24,
+        "support_count": 3,
+        "ports_sequence": [
+          79,
+          95
+        ],
+        "ports_count": 2,
+        "ports_string": "79 → 95",
+        "countries_visited": [
+          "GLP",
+          "SXM"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.125,
+        "importance_score": 0.2264,
+        "is_generated_segment": false,
+        "has_special_ports": false,
+        "special_ports_in_pattern": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.061509850102155,
+            14.599826650835857
+          ],
+          [
+            -61.470887888261686,
+            10.32069109409585
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 29,
+        "frequency": 7,
+        "support_count": 2,
+        "ports_sequence": [
+          5,
+          65
+        ],
+        "ports_count": 2,
+        "ports_string": "5 → 65",
+        "countries_visited": [
+          "MTQ",
+          "TTO"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.2857,
+        "importance_score": 0.2006,
+        "is_generated_segment": false,
+        "has_special_ports": false,
+        "special_ports_in_pattern": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -52.27532229104023,
+            4.853577794655145
+          ],
+          [
+            -61.54185390048764,
+            16.23525338646997
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 12,
+        "frequency": 30,
+        "support_count": 2,
+        "ports_sequence": [
+          324,
+          79
+        ],
+        "ports_count": 2,
+        "ports_string": "324 → 79",
+        "countries_visited": [
+          "GUF",
+          "GLP"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.0667,
+        "importance_score": 0.1901,
+        "is_generated_segment": false,
+        "has_special_ports": false,
+        "special_ports_in_pattern": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.75465222921322,
+            12.076754865123362
+          ],
+          [
+            -61.54185390048764,
+            16.23525338646997
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 24,
+        "frequency": 12,
+        "support_count": 2,
+        "ports_sequence": [
+          37,
+          79
+        ],
+        "ports_count": 2,
+        "ports_string": "37 → 79",
+        "countries_visited": [
+          "GRD",
+          "GLP"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1841,
+        "is_generated_segment": false,
+        "has_special_ports": false,
+        "special_ports_in_pattern": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.188070688768136,
+            12.879853216271622
+          ],
+          [
+            -61.54185390048764,
+            16.23525338646997
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 25,
+        "frequency": 12,
+        "support_count": 2,
+        "ports_sequence": [
+          34,
+          79
+        ],
+        "ports_count": 2,
+        "ports_string": "34 → 79",
+        "countries_visited": [
+          "VCT",
+          "GLP"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1841,
+        "is_generated_segment": false,
+        "has_special_ports": false,
+        "special_ports_in_pattern": []
+      }
+    }
+  ]
+}

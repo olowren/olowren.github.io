@@ -1,0 +1,8094 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "description": "Optimized Navigation Patterns - petites antilles bulk",
+    "total_patterns": 162,
+    "total_ports": 72,
+    "special_ports": [
+      999,
+      997,
+      998
+    ],
+    "data_source": "prefixspan_petites_antilles_bulk.csv",
+    "filtering_applied": true,
+    "avg_importance_score": 0.1584155319536739
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.90738834401907,
+          9.349210077003796
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 128,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "PAN",
+        "country_name": "Panama",
+        "port_name": "Cristobal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.51583854057217,
+          10.650275215617736
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 1,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "TTO",
+        "country_name": "Trinidad and Tobago",
+        "port_name": "Port-of-Spain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.88588324318818,
+          9.367578926189735
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 129,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "PAN",
+        "country_name": "Panama",
+        "port_name": "Colon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.95471464676962,
+          13.72239194777458
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 3,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "LCA",
+        "country_name": "Saint Lucia",
+        "port_name": "Vieux Fort"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.59848665409125,
+          9.493906237872787
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 132,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "COL",
+        "country_name": "Colombia",
+        "port_name": "Tolu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.061509850102155,
+          14.599826650835857
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 5,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "MTQ",
+        "country_name": "Martinique",
+        "port_name": "Fort-de-France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.50810506776573,
+          10.328509927515173
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 134,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "COL",
+        "country_name": "Colombia",
+        "port_name": "Mamonal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.52777167972823,
+          10.2922330450747
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 133,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "COL",
+        "country_name": "Colombia",
+        "port_name": "Puerto Bahia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.77325508772651,
+          10.989533806082758
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 136,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "COL",
+        "country_name": "Colombia",
+        "port_name": "Barranquilla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4781515779002,
+          22.160942829131752
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 265,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "CUB",
+        "country_name": "Cuba",
+        "port_name": "Cienfuegos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.22885147805441,
+          11.064235855116001
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 138,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "COL",
+        "country_name": "Colombia",
+        "port_name": "Puerto Nuevo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2234921314932,
+          11.070986688509553
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 139,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "COL",
+        "country_name": "Colombia",
+        "port_name": "Puerto Drummond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.21646894816809,
+          11.251132376176875
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 140,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "COL",
+        "country_name": "Colombia",
+        "port_name": "Santa Marta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.38127750486808,
+          11.268750082665987
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 141,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "COL",
+        "country_name": "Colombia",
+        "port_name": "Puerto Brisa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.96149020141608,
+          12.257323227234487
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 142,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "COL",
+        "country_name": "Colombia",
+        "port_name": "Puerto Bolivar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2824890917825,
+          12.083093188910468
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 15,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "BES",
+        "country_name": "Bonaire, Sint Eustatius and Saba",
+        "port_name": "Salina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.52637306742898,
+          10.391552271565017
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 135,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "COL",
+        "country_name": "Colombia",
+        "port_name": "Cartagena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.84787216448984,
+          20.01521222622584
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 275,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "CUB",
+        "country_name": "Cuba",
+        "port_name": "Santiago de Cuba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.61360395125956,
+          10.588569672479217
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 148,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "VEN",
+        "country_name": "Venezuela",
+        "port_name": "Maracaibo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.38127750486808,
+          11.268750082664358
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 413,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "COL",
+        "country_name": "Colombia",
+        "port_name": "Puerto Brisa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.04619865190779,
+          18.01207658933305
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 31,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "SXM",
+        "country_name": "Sint Marteen",
+        "port_name": "Philipsburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.99883496869977,
+          10.478609986408406
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 160,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "VEN",
+        "country_name": "Venezuela",
+        "port_name": "Puerto Cabello"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.99406398448652,
+          14.011516182730462
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 35,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "LCA",
+        "country_name": "Saint Lucia",
+        "port_name": "Castries"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.593437416076,
+          10.24505612958058
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 165,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "VEN",
+        "country_name": "Venezuela",
+        "port_name": "Guanta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.62977623934643,
+          13.104967113359564
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 43,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "BRB",
+        "country_name": "Barbados",
+        "port_name": "Bridgetown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9175703272089,
+          9.307011104921322
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 435,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "PAN",
+        "country_name": "Panama",
+        "port_name": "Puente Atlantico"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.91030776653106,
+          9.27902130878092
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 436,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "PAN",
+        "country_name": "Panama",
+        "port_name": "Gatun"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.6910769186209,
+          8.361881619681508
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 183,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "VEN",
+        "country_name": "Venezuela",
+        "port_name": "Palua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.71650454559074,
+          8.34063333657588
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 184,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "VEN",
+        "country_name": "Venezuela",
+        "port_name": "Puerto Ordaz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.733741922089955,
+          15.996636663061702
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 57,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "GLP",
+        "country_name": "Guadeloupe",
+        "port_name": "Basse-Terre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.64916149300696,
+          21.050014719158753
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 312,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "BHS",
+        "country_name": "Bahamas",
+        "port_name": "Great Inagua Island"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.7534918218545,
+          12.050809014528001
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 60,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "GRD",
+        "country_name": "Grenada",
+        "port_name": "St George s"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.1692677229468,
+          6.808161052689902
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 316,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "GUY",
+        "country_name": "Guyana",
+        "port_name": "Georgetown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.16606148781164,
+          5.808743555477176
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 320,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "SUR",
+        "country_name": "Suriname",
+        "port_name": "Paramaribo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.08888230592948,
+          5.61218806940481
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 321,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "SUR",
+        "country_name": "Suriname",
+        "port_name": "Paranam"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.92413450373908,
+          12.116062302100206
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 66,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "CUW",
+        "country_name": "Curacao",
+        "port_name": "Willemstad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.67757715353723,
+          21.345278786861027
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 325,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "MEX",
+        "country_name": "Mexico",
+        "port_name": "Puerto Progreso"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.389744703907716,
+          15.307304018653623
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 69,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "DMA",
+        "country_name": "Dominica",
+        "port_name": "Roseau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.10276221631595,
+          18.451955705973642
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 200,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "PRI",
+        "country_name": "Puerto Rico",
+        "port_name": "San Juan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.490928792017534,
+          10.394481242262778
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 73,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "TTO",
+        "country_name": "Trinidad and Tobago",
+        "port_name": "Point Lisas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6996111902815,
+          19.8011656185106
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 201,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "DOM",
+        "country_name": "Dominican Republic",
+        "port_name": "Puerto Plata"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.19159879036243,
+          18.433858588797264
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 331,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "MEX",
+        "country_name": "Mexico",
+        "port_name": "Dos Bocas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.40681152049213,
+          18.1295323631508
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 333,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "MEX",
+        "country_name": "Mexico",
+        "port_name": "Coatzacoalcos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.54185390048764,
+          16.23525338646997
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 79,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "GLP",
+        "country_name": "Guadeloupe",
+        "port_name": "Pointe-a-Pitre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1426175549526,
+          19.21438297757042
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 335,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "MEX",
+        "country_name": "Mexico",
+        "port_name": "Veracruz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.65256110822241,
+          13.28423385744944
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 81,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "BRB",
+        "country_name": "Barbados",
+        "port_name": "Checker Hall"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.88214045045873,
+          22.485302229487747
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 338,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "MEX",
+        "country_name": "Mexico",
+        "port_name": "Altamira"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.85290808969623,
+          22.225202363678864
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 337,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "MEX",
+        "country_name": "Mexico",
+        "port_name": "Tampico"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.01894436639236,
+          18.418675524148718
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 212,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "DOM",
+        "country_name": "Dominican Republic",
+        "port_name": "Rio Haina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.23221978382377,
+          13.153721280716272
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 85,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "VCT",
+        "country_name": "Saint Vincent and the Grenadines",
+        "port_name": "Kingstown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.33666330251963,
+          20.95676703916011
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 336,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "MEX",
+        "country_name": "Mexico",
+        "port_name": "Tuxpan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.88053628966288,
+          18.47147805329265
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 211,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "DOM",
+        "country_name": "Dominican Republic",
+        "port_name": "Santo Domingo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.31085065824905,
+          18.446471461647064
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 207,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "DOM",
+        "country_name": "Dominican Republic",
+        "port_name": "San Pedro de Macoris"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3599117799489,
+          18.556576639531634
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 222,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "HTI",
+        "country_name": "Haiti",
+        "port_name": "Port au Prince"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.36891051421395,
+          18.696835474387402
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 223,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "HTI",
+        "country_name": "Haiti",
+        "port_name": "Port Lafito"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.63301390378332,
+          10.680750410218444
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 98,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "TTO",
+        "country_name": "Trinidad and Tobago",
+        "port_name": "Chaguaramas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.19544816848473,
+          19.75858972450867
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 227,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "HTI",
+        "country_name": "Haiti",
+        "port_name": "Cap Haitien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.54529951,
+          29.12891659
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 997,
+        "used_in_patterns": true,
+        "is_special_port": true,
+        "country_code": "SPECIAL",
+        "country_name": "Port 997 (North Atlantic Exit)",
+        "port_name": "Port 997 (North Atlantic Exit)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.67815623,
+          14.14679326
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 998,
+        "used_in_patterns": true,
+        "is_special_port": true,
+        "country_code": "SPECIAL",
+        "country_name": "Port 998 (South Atlantic Exit)",
+        "port_name": "Port 998 (South Atlantic Exit)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.41168144,
+          8.55265497
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 999,
+        "used_in_patterns": true,
+        "is_special_port": true,
+        "country_code": "SPECIAL",
+        "country_name": "Port 999 (Panama Canal Exit)",
+        "port_name": "Port 999 (Panama Canal Exit)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.06327459494223,
+          10.001003128077205
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 122,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "CRI",
+        "country_name": "Costa Rica",
+        "port_name": "Puerto Limon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.41199087788057,
+          18.46159070833715
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 234,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "JAM",
+        "country_name": "Jamaica",
+        "port_name": "Port Rhoades"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.40417774725057,
+          16.514452811826274
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 109,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "BLZ",
+        "country_name": "Belize",
+        "port_name": "Big Creek"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.61629710672634,
+          15.69651702806077
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 110,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "GTM",
+        "country_name": "Guatemala",
+        "port_name": "Santo Tomas de Castilla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.14088608585992,
+          17.819518038873092
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 239,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "JAM",
+        "country_name": "Jamaica",
+        "port_name": "Rocky Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.60454669582944,
+          17.859482426567638
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 238,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "JAM",
+        "country_name": "Jamaica",
+        "port_name": "Port Kaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.13061340936524,
+          17.889985387671675
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 240,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "JAM",
+        "country_name": "Jamaica",
+        "port_name": "Port Esquivel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.94483194788515,
+          15.839335236097547
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 112,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "HND",
+        "country_name": "Honduras",
+        "port_name": "Puerto Cortes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.81827394002187,
+          17.976763465557415
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 243,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "JAM",
+        "country_name": "Jamaica",
+        "port_name": "Kingston"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.34213541549407,
+          23.130116578570547
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 250,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "CUB",
+        "country_name": "Cuba",
+        "port_name": "Havana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5483185561045,
+          23.05965383725222
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 251,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "CUB",
+        "country_name": "Cuba",
+        "port_name": "Matanzas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6964604988459,
+          9.015797720626201
+        ]
+      },
+      "properties": {
+        "type": "port",
+        "port_id": 126,
+        "used_in_patterns": true,
+        "is_special_port": false,
+        "country_code": "PAN",
+        "country_name": "Panama",
+        "port_name": "Punta Rincon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.96149020141608,
+            12.257323227234487
+          ],
+          [
+            -70.54529951,
+            29.12891659
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 0,
+        "frequency": 786,
+        "support_count": 96,
+        "ports_sequence": [
+          142,
+          997
+        ],
+        "ports_count": 2,
+        "ports_string": "142 → 997",
+        "countries_visited": [
+          "Colombia",
+          "Port 997 (North Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1221,
+        "importance_score": 0.7911,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.2234921314932,
+            11.070986688509553
+          ],
+          [
+            -54.67815623,
+            14.14679326
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 1,
+        "frequency": 618,
+        "support_count": 92,
+        "ports_sequence": [
+          139,
+          998
+        ],
+        "ports_count": 2,
+        "ports_string": "139 → 998",
+        "countries_visited": [
+          "Colombia",
+          "Port 998 (South Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1489,
+        "importance_score": 0.6984,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.22885147805441,
+            11.064235855116001
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 2,
+        "frequency": 528,
+        "support_count": 50,
+        "ports_sequence": [
+          138,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "138 → 999",
+        "countries_visited": [
+          "Colombia",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.0947,
+        "importance_score": 0.5106,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.2234921314932,
+            11.070986688509553
+          ],
+          [
+            -70.54529951,
+            29.12891659
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 3,
+        "frequency": 450,
+        "support_count": 49,
+        "ports_sequence": [
+          139,
+          997
+        ],
+        "ports_count": 2,
+        "ports_string": "139 → 997",
+        "countries_visited": [
+          "Colombia",
+          "Port 997 (North Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1089,
+        "importance_score": 0.4706,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.22885147805441,
+            11.064235855116001
+          ],
+          [
+            -70.54529951,
+            29.12891659
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 4,
+        "frequency": 270,
+        "support_count": 38,
+        "ports_sequence": [
+          138,
+          997
+        ],
+        "ports_count": 2,
+        "ports_string": "138 → 997",
+        "countries_visited": [
+          "Colombia",
+          "Port 997 (North Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1407,
+        "importance_score": 0.351,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.77325508772651,
+            10.989533806082758
+          ],
+          [
+            -54.67815623,
+            14.14679326
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 5,
+        "frequency": 246,
+        "support_count": 40,
+        "ports_sequence": [
+          136,
+          998
+        ],
+        "ports_count": 2,
+        "ports_string": "136 → 998",
+        "countries_visited": [
+          "Colombia",
+          "Port 998 (South Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1626,
+        "importance_score": 0.3494,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.77325508772651,
+            10.989533806082758
+          ],
+          [
+            -70.54529951,
+            29.12891659
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 6,
+        "frequency": 222,
+        "support_count": 37,
+        "ports_sequence": [
+          136,
+          997
+        ],
+        "ports_count": 2,
+        "ports_string": "136 → 997",
+        "countries_visited": [
+          "Colombia",
+          "Port 997 (North Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.3286,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -67.99883496869977,
+            10.478609986408406
+          ],
+          [
+            -68.2824890917825,
+            12.083093188910468
+          ],
+          [
+            -70.54529951,
+            29.12891659
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 7,
+        "frequency": 4,
+        "support_count": 4,
+        "ports_sequence": [
+          160,
+          15,
+          997
+        ],
+        "ports_count": 3,
+        "ports_string": "160 → 15 → 997",
+        "countries_visited": [
+          "Venezuela",
+          "Bonaire, Sint Eustatius and Saba",
+          "Port 997 (North Atlantic Exit)"
+        ],
+        "countries_count": 3,
+        "pattern_length": 3,
+        "support_rate": 1.0,
+        "importance_score": 0.3145,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.96149020141608,
+            12.257323227234487
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 8,
+        "frequency": 210,
+        "support_count": 34,
+        "ports_sequence": [
+          142,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "142 → 999",
+        "countries_visited": [
+          "Colombia",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1619,
+        "importance_score": 0.3122,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.22885147805441,
+            11.064235855116001
+          ],
+          [
+            -70.54529951,
+            29.12891659
+          ],
+          [
+            -74.2234921314932,
+            11.070986688509553
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 9,
+        "frequency": 2,
+        "support_count": 2,
+        "ports_sequence": [
+          138,
+          997,
+          139
+        ],
+        "ports_count": 3,
+        "ports_string": "138 → 997 → 139",
+        "countries_visited": [
+          "Colombia",
+          "Port 997 (North Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 3,
+        "support_rate": 1.0,
+        "importance_score": 0.3073,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -70.54529951,
+            29.12891659
+          ],
+          [
+            -71.96149020141608,
+            12.257323227234487
+          ],
+          [
+            -54.67815623,
+            14.14679326
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 10,
+        "frequency": 2,
+        "support_count": 2,
+        "ports_sequence": [
+          997,
+          142,
+          998
+        ],
+        "ports_count": 3,
+        "ports_string": "997 → 142 → 998",
+        "countries_visited": [
+          "Port 997 (North Atlantic Exit)",
+          "Colombia",
+          "Port 998 (South Atlantic Exit)"
+        ],
+        "countries_count": 3,
+        "pattern_length": 3,
+        "support_rate": 1.0,
+        "importance_score": 0.3073,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          997,
+          998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -70.01894436639236,
+            18.418675524148718
+          ],
+          [
+            -61.490928792017534,
+            10.394481242262778
+          ],
+          [
+            -70.54529951,
+            29.12891659
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 11,
+        "frequency": 2,
+        "support_count": 2,
+        "ports_sequence": [
+          212,
+          73,
+          997
+        ],
+        "ports_count": 3,
+        "ports_string": "212 → 73 → 997",
+        "countries_visited": [
+          "Dominican Republic",
+          "Trinidad and Tobago",
+          "Port 997 (North Atlantic Exit)"
+        ],
+        "countries_count": 3,
+        "pattern_length": 3,
+        "support_rate": 1.0,
+        "importance_score": 0.3073,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.63301390378332,
+            10.680750410218444
+          ],
+          [
+            -58.1692677229468,
+            6.808161052689902
+          ],
+          [
+            -54.67815623,
+            14.14679326
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 12,
+        "frequency": 2,
+        "support_count": 2,
+        "ports_sequence": [
+          98,
+          316,
+          998
+        ],
+        "ports_count": 3,
+        "ports_string": "98 → 316 → 998",
+        "countries_visited": [
+          "Trinidad and Tobago",
+          "Guyana",
+          "Port 998 (South Atlantic Exit)"
+        ],
+        "countries_count": 3,
+        "pattern_length": 3,
+        "support_rate": 1.0,
+        "importance_score": 0.3073,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -54.67815623,
+            14.14679326
+          ],
+          [
+            -67.99883496869977,
+            10.478609986408406
+          ],
+          [
+            -54.67815623,
+            14.14679326
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 13,
+        "frequency": 2,
+        "support_count": 2,
+        "ports_sequence": [
+          998,
+          160,
+          998
+        ],
+        "ports_count": 3,
+        "ports_string": "998 → 160 → 998",
+        "countries_visited": [
+          "Port 998 (South Atlantic Exit)",
+          "Venezuela"
+        ],
+        "countries_count": 2,
+        "pattern_length": 3,
+        "support_rate": 1.0,
+        "importance_score": 0.3073,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          998,
+          998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.41168144,
+            8.55265497
+          ],
+          [
+            -74.2234921314932,
+            11.070986688509553
+          ],
+          [
+            -54.67815623,
+            14.14679326
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 14,
+        "frequency": 2,
+        "support_count": 2,
+        "ports_sequence": [
+          999,
+          139,
+          998
+        ],
+        "ports_count": 3,
+        "ports_string": "999 → 139 → 998",
+        "countries_visited": [
+          "Port 999 (Panama Canal Exit)",
+          "Colombia",
+          "Port 998 (South Atlantic Exit)"
+        ],
+        "countries_count": 3,
+        "pattern_length": 3,
+        "support_rate": 1.0,
+        "importance_score": 0.3073,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999,
+          998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -54.67815623,
+            14.14679326
+          ],
+          [
+            -66.10276221631595,
+            18.451955705973642
+          ],
+          [
+            -54.67815623,
+            14.14679326
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 15,
+        "frequency": 2,
+        "support_count": 2,
+        "ports_sequence": [
+          998,
+          200,
+          998
+        ],
+        "ports_count": 3,
+        "ports_string": "998 → 200 → 998",
+        "countries_visited": [
+          "Port 998 (South Atlantic Exit)",
+          "Puerto Rico"
+        ],
+        "countries_count": 2,
+        "pattern_length": 3,
+        "support_rate": 1.0,
+        "importance_score": 0.3073,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          998,
+          998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.63301390378332,
+            10.680750410218444
+          ],
+          [
+            -60.99406398448652,
+            14.011516182730462
+          ],
+          [
+            -61.23221978382377,
+            13.153721280716272
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 16,
+        "frequency": 2,
+        "support_count": 2,
+        "ports_sequence": [
+          98,
+          35,
+          85
+        ],
+        "ports_count": 3,
+        "ports_string": "98 → 35 → 85",
+        "countries_visited": [
+          "Trinidad and Tobago",
+          "Saint Lucia",
+          "Saint Vincent and the Grenadines"
+        ],
+        "countries_count": 3,
+        "pattern_length": 3,
+        "support_rate": 1.0,
+        "importance_score": 0.3073,
+        "is_generated_segment": NaN,
+        "has_special_ports": false,
+        "special_ports_in_pattern": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.41168144,
+            8.55265497
+          ],
+          [
+            -74.2234921314932,
+            11.070986688509553
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 17,
+        "frequency": 2,
+        "support_count": 2,
+        "ports_sequence": [
+          999,
+          139,
+          999
+        ],
+        "ports_count": 3,
+        "ports_string": "999 → 139 → 999",
+        "countries_visited": [
+          "Port 999 (Panama Canal Exit)",
+          "Colombia"
+        ],
+        "countries_count": 2,
+        "pattern_length": 3,
+        "support_rate": 1.0,
+        "importance_score": 0.3073,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999,
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.41168144,
+            8.55265497
+          ],
+          [
+            -71.96149020141608,
+            12.257323227234487
+          ],
+          [
+            -54.67815623,
+            14.14679326
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 18,
+        "frequency": 2,
+        "support_count": 2,
+        "ports_sequence": [
+          999,
+          142,
+          998
+        ],
+        "ports_count": 3,
+        "ports_string": "999 → 142 → 998",
+        "countries_visited": [
+          "Port 999 (Panama Canal Exit)",
+          "Colombia",
+          "Port 998 (South Atlantic Exit)"
+        ],
+        "countries_count": 3,
+        "pattern_length": 3,
+        "support_rate": 1.0,
+        "importance_score": 0.3073,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999,
+          998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -60.95471464676962,
+            13.72239194777458
+          ],
+          [
+            -61.490928792017534,
+            10.394481242262778
+          ],
+          [
+            -58.1692677229468,
+            6.808161052689902
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 19,
+        "frequency": 2,
+        "support_count": 2,
+        "ports_sequence": [
+          3,
+          73,
+          316
+        ],
+        "ports_count": 3,
+        "ports_string": "3 → 73 → 316",
+        "countries_visited": [
+          "Saint Lucia",
+          "Trinidad and Tobago",
+          "Guyana"
+        ],
+        "countries_count": 3,
+        "pattern_length": 3,
+        "support_rate": 1.0,
+        "importance_score": 0.3073,
+        "is_generated_segment": NaN,
+        "has_special_ports": false,
+        "special_ports_in_pattern": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -59.62977623934643,
+            13.104967113359564
+          ],
+          [
+            -61.7534918218545,
+            12.050809014528001
+          ],
+          [
+            -61.490928792017534,
+            10.394481242262778
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 20,
+        "frequency": 2,
+        "support_count": 2,
+        "ports_sequence": [
+          43,
+          60,
+          73
+        ],
+        "ports_count": 3,
+        "ports_string": "43 → 60 → 73",
+        "countries_visited": [
+          "Barbados",
+          "Grenada",
+          "Trinidad and Tobago"
+        ],
+        "countries_count": 3,
+        "pattern_length": 3,
+        "support_rate": 1.0,
+        "importance_score": 0.3073,
+        "is_generated_segment": NaN,
+        "has_special_ports": false,
+        "special_ports_in_pattern": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.733741922089955,
+            15.996636663061702
+          ],
+          [
+            -61.54185390048764,
+            16.23525338646997
+          ],
+          [
+            -61.061509850102155,
+            14.599826650835857
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 21,
+        "frequency": 2,
+        "support_count": 2,
+        "ports_sequence": [
+          57,
+          79,
+          5
+        ],
+        "ports_count": 3,
+        "ports_string": "57 → 79 → 5",
+        "countries_visited": [
+          "Guadeloupe",
+          "Martinique"
+        ],
+        "countries_count": 2,
+        "pattern_length": 3,
+        "support_rate": 1.0,
+        "importance_score": 0.3073,
+        "is_generated_segment": NaN,
+        "has_special_ports": false,
+        "special_ports_in_pattern": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.91030776653106,
+            9.27902130878092
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 22,
+        "frequency": 168,
+        "support_count": 28,
+        "ports_sequence": [
+          436,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "436 → 999",
+        "countries_visited": [
+          "Panama",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.273,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.1426175549526,
+            19.21438297757042
+          ],
+          [
+            -70.54529951,
+            29.12891659
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 23,
+        "frequency": 168,
+        "support_count": 26,
+        "ports_sequence": [
+          335,
+          997
+        ],
+        "ports_count": 2,
+        "ports_string": "335 → 997",
+        "countries_visited": [
+          "Mexico",
+          "Port 997 (North Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1548,
+        "importance_score": 0.2644,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.22885147805441,
+            11.064235855116001
+          ],
+          [
+            -54.67815623,
+            14.14679326
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 24,
+        "frequency": 156,
+        "support_count": 25,
+        "ports_sequence": [
+          138,
+          998
+        ],
+        "ports_count": 2,
+        "ports_string": "138 → 998",
+        "countries_visited": [
+          "Colombia",
+          "Port 998 (South Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1603,
+        "importance_score": 0.2562,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.14088608585992,
+            17.819518038873092
+          ],
+          [
+            -70.54529951,
+            29.12891659
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 25,
+        "frequency": 156,
+        "support_count": 25,
+        "ports_sequence": [
+          239,
+          997
+        ],
+        "ports_count": 2,
+        "ports_string": "239 → 997",
+        "countries_visited": [
+          "Jamaica",
+          "Port 997 (North Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1603,
+        "importance_score": 0.2562,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -59.65256110822241,
+            13.28423385744944
+          ],
+          [
+            -59.62977623934643,
+            13.104967113359564
+          ],
+          [
+            -59.65256110822241,
+            13.28423385744944
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 26,
+        "frequency": 3,
+        "support_count": 2,
+        "ports_sequence": [
+          81,
+          43,
+          81
+        ],
+        "ports_count": 3,
+        "ports_string": "81 → 43 → 81",
+        "countries_visited": [
+          "Barbados"
+        ],
+        "countries_count": 1,
+        "pattern_length": 3,
+        "support_rate": 0.6667,
+        "importance_score": 0.2411,
+        "is_generated_segment": NaN,
+        "has_special_ports": false,
+        "special_ports_in_pattern": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.21646894816809,
+            11.251132376176875
+          ],
+          [
+            -70.54529951,
+            29.12891659
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 27,
+        "frequency": 138,
+        "support_count": 22,
+        "ports_sequence": [
+          140,
+          997
+        ],
+        "ports_count": 2,
+        "ports_string": "140 → 997",
+        "countries_visited": [
+          "Colombia",
+          "Port 997 (North Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1594,
+        "importance_score": 0.2375,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.21646894816809,
+            11.251132376176875
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 28,
+        "frequency": 113,
+        "support_count": 17,
+        "ports_sequence": [
+          140,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "140 → 999",
+        "countries_visited": [
+          "Colombia",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1504,
+        "importance_score": 0.2074,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.61629710672634,
+            15.69651702806077
+          ],
+          [
+            -70.54529951,
+            29.12891659
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 29,
+        "frequency": 108,
+        "support_count": 17,
+        "ports_sequence": [
+          110,
+          997
+        ],
+        "ports_count": 2,
+        "ports_string": "110 → 997",
+        "countries_visited": [
+          "Guatemala",
+          "Port 997 (North Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1574,
+        "importance_score": 0.2062,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.88214045045873,
+            22.485302229487747
+          ],
+          [
+            -70.54529951,
+            29.12891659
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 30,
+        "frequency": 102,
+        "support_count": 17,
+        "ports_sequence": [
+          338,
+          997
+        ],
+        "ports_count": 2,
+        "ports_string": "338 → 997",
+        "countries_visited": [
+          "Mexico",
+          "Port 997 (North Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.205,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -75.50810506776573,
+            10.328509927515173
+          ],
+          [
+            -54.67815623,
+            14.14679326
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 31,
+        "frequency": 90,
+        "support_count": 15,
+        "ports_sequence": [
+          134,
+          998
+        ],
+        "ports_count": 2,
+        "ports_string": "134 → 998",
+        "countries_visited": [
+          "Colombia",
+          "Port 998 (South Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1927,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -70.01894436639236,
+            18.418675524148718
+          ],
+          [
+            -54.67815623,
+            14.14679326
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 32,
+        "frequency": 90,
+        "support_count": 14,
+        "ports_sequence": [
+          212,
+          998
+        ],
+        "ports_count": 2,
+        "ports_string": "212 → 998",
+        "countries_visited": [
+          "Dominican Republic",
+          "Port 998 (South Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1556,
+        "importance_score": 0.1873,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -75.50810506776573,
+            10.328509927515173
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 33,
+        "frequency": 78,
+        "support_count": 12,
+        "ports_sequence": [
+          134,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "134 → 999",
+        "countries_visited": [
+          "Colombia",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1538,
+        "importance_score": 0.1746,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.4781515779002,
+            22.160942829131752
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 34,
+        "frequency": 66,
+        "support_count": 11,
+        "ports_sequence": [
+          265,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "265 → 999",
+        "countries_visited": [
+          "Cuba",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.168,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.21646894816809,
+            11.251132376176875
+          ],
+          [
+            -54.67815623,
+            14.14679326
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 35,
+        "frequency": 66,
+        "support_count": 11,
+        "ports_sequence": [
+          140,
+          998
+        ],
+        "ports_count": 2,
+        "ports_string": "140 → 998",
+        "countries_visited": [
+          "Colombia",
+          "Port 998 (South Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.168,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.60454669582944,
+            17.859482426567638
+          ],
+          [
+            -70.54529951,
+            29.12891659
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 36,
+        "frequency": 66,
+        "support_count": 11,
+        "ports_sequence": [
+          238,
+          997
+        ],
+        "ports_count": 2,
+        "ports_string": "238 → 997",
+        "countries_visited": [
+          "Jamaica",
+          "Port 997 (North Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.168,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -62.71650454559074,
+            8.34063333657588
+          ],
+          [
+            -54.67815623,
+            14.14679326
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 37,
+        "frequency": 60,
+        "support_count": 10,
+        "ports_sequence": [
+          184,
+          998
+        ],
+        "ports_count": 2,
+        "ports_string": "184 → 998",
+        "countries_visited": [
+          "Venezuela",
+          "Port 998 (South Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1618,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -59.65256110822241,
+            13.28423385744944
+          ],
+          [
+            -58.1692677229468,
+            6.808161052689902
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 38,
+        "frequency": 150,
+        "support_count": 3,
+        "ports_sequence": [
+          81,
+          316
+        ],
+        "ports_count": 2,
+        "ports_string": "81 → 316",
+        "countries_visited": [
+          "Barbados",
+          "Guyana"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.02,
+        "importance_score": 0.1564,
+        "is_generated_segment": NaN,
+        "has_special_ports": false,
+        "special_ports_in_pattern": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -62.6910769186209,
+            8.361881619681508
+          ],
+          [
+            -70.54529951,
+            29.12891659
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 39,
+        "frequency": 54,
+        "support_count": 9,
+        "ports_sequence": [
+          183,
+          997
+        ],
+        "ports_count": 2,
+        "ports_string": "183 → 997",
+        "countries_visited": [
+          "Venezuela",
+          "Port 997 (North Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1556,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -70.6996111902815,
+            19.8011656185106
+          ],
+          [
+            -54.67815623,
+            14.14679326
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 40,
+        "frequency": 54,
+        "support_count": 9,
+        "ports_sequence": [
+          201,
+          998
+        ],
+        "ports_count": 2,
+        "ports_string": "201 → 998",
+        "countries_visited": [
+          "Dominican Republic",
+          "Port 998 (South Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1556,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -94.40681152049213,
+            18.1295323631508
+          ],
+          [
+            -70.54529951,
+            29.12891659
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 41,
+        "frequency": 54,
+        "support_count": 9,
+        "ports_sequence": [
+          333,
+          997
+        ],
+        "ports_count": 2,
+        "ports_string": "333 → 997",
+        "countries_visited": [
+          "Mexico",
+          "Port 997 (North Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1556,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.6964604988459,
+            9.015797720626201
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 42,
+        "frequency": 54,
+        "support_count": 9,
+        "ports_sequence": [
+          126,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "126 → 999",
+        "countries_visited": [
+          "Panama",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1556,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.85290808969623,
+            22.225202363678864
+          ],
+          [
+            -70.54529951,
+            29.12891659
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 43,
+        "frequency": 48,
+        "support_count": 8,
+        "ports_sequence": [
+          337,
+          997
+        ],
+        "ports_count": 2,
+        "ports_string": "337 → 997",
+        "countries_visited": [
+          "Mexico",
+          "Port 997 (North Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1494,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -75.84787216448984,
+            20.01521222622584
+          ],
+          [
+            -54.67815623,
+            14.14679326
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 44,
+        "frequency": 48,
+        "support_count": 8,
+        "ports_sequence": [
+          275,
+          998
+        ],
+        "ports_count": 2,
+        "ports_string": "275 → 998",
+        "countries_visited": [
+          "Cuba",
+          "Port 998 (South Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1494,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -59.62977623934643,
+            13.104967113359564
+          ],
+          [
+            -59.65256110822241,
+            13.28423385744944
+          ],
+          [
+            -58.1692677229468,
+            6.808161052689902
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 45,
+        "frequency": 23,
+        "support_count": 3,
+        "ports_sequence": [
+          43,
+          81,
+          316
+        ],
+        "ports_count": 3,
+        "ports_string": "43 → 81 → 316",
+        "countries_visited": [
+          "Barbados",
+          "Guyana"
+        ],
+        "countries_count": 2,
+        "pattern_length": 3,
+        "support_rate": 0.1304,
+        "importance_score": 0.1472,
+        "is_generated_segment": NaN,
+        "has_special_ports": false,
+        "special_ports_in_pattern": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.64916149300696,
+            21.050014719158753
+          ],
+          [
+            -70.54529951,
+            29.12891659
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 46,
+        "frequency": 42,
+        "support_count": 7,
+        "ports_sequence": [
+          312,
+          997
+        ],
+        "ports_count": 2,
+        "ports_string": "312 → 997",
+        "countries_visited": [
+          "Bahamas",
+          "Port 997 (North Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1432,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -75.59848665409125,
+            9.493906237872787
+          ],
+          [
+            -54.67815623,
+            14.14679326
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 47,
+        "frequency": 42,
+        "support_count": 7,
+        "ports_sequence": [
+          132,
+          998
+        ],
+        "ports_count": 2,
+        "ports_string": "132 → 998",
+        "countries_visited": [
+          "Colombia",
+          "Port 998 (South Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1432,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.38127750486808,
+            11.268750082664358
+          ],
+          [
+            -54.67815623,
+            14.14679326
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 48,
+        "frequency": 42,
+        "support_count": 7,
+        "ports_sequence": [
+          413,
+          998
+        ],
+        "ports_count": 2,
+        "ports_string": "413 → 998",
+        "countries_visited": [
+          "Colombia",
+          "Port 998 (South Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1432,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.13061340936524,
+            17.889985387671675
+          ],
+          [
+            -70.54529951,
+            29.12891659
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 49,
+        "frequency": 42,
+        "support_count": 7,
+        "ports_sequence": [
+          240,
+          997
+        ],
+        "ports_count": 2,
+        "ports_string": "240 → 997",
+        "countries_visited": [
+          "Jamaica",
+          "Port 997 (North Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1432,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -70.01894436639236,
+            18.418675524148718
+          ],
+          [
+            -70.54529951,
+            29.12891659
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 50,
+        "frequency": 42,
+        "support_count": 7,
+        "ports_sequence": [
+          212,
+          997
+        ],
+        "ports_count": 2,
+        "ports_string": "212 → 997",
+        "countries_visited": [
+          "Dominican Republic",
+          "Port 997 (North Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1432,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.94483194788515,
+            15.839335236097547
+          ],
+          [
+            -70.54529951,
+            29.12891659
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 51,
+        "frequency": 42,
+        "support_count": 7,
+        "ports_sequence": [
+          112,
+          997
+        ],
+        "ports_count": 2,
+        "ports_string": "112 → 997",
+        "countries_visited": [
+          "Honduras",
+          "Port 997 (North Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1432,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.41199087788057,
+            18.46159070833715
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 52,
+        "frequency": 36,
+        "support_count": 6,
+        "ports_sequence": [
+          234,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "234 → 999",
+        "countries_visited": [
+          "Jamaica",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1371,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -62.6910769186209,
+            8.361881619681508
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 53,
+        "frequency": 36,
+        "support_count": 6,
+        "ports_sequence": [
+          183,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "183 → 999",
+        "countries_visited": [
+          "Venezuela",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1371,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.08888230592948,
+            5.61218806940481
+          ],
+          [
+            -54.67815623,
+            14.14679326
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 54,
+        "frequency": 36,
+        "support_count": 6,
+        "ports_sequence": [
+          321,
+          998
+        ],
+        "ports_count": 2,
+        "ports_string": "321 → 998",
+        "countries_visited": [
+          "Suriname",
+          "Port 998 (South Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1371,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.77325508772651,
+            10.989533806082758
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 55,
+        "frequency": 36,
+        "support_count": 6,
+        "ports_sequence": [
+          136,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "136 → 999",
+        "countries_visited": [
+          "Colombia",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1371,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -75.52777167972823,
+            10.2922330450747
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 56,
+        "frequency": 30,
+        "support_count": 5,
+        "ports_sequence": [
+          133,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "133 → 999",
+        "countries_visited": [
+          "Colombia",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1309,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.4781515779002,
+            22.160942829131752
+          ],
+          [
+            -70.54529951,
+            29.12891659
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 57,
+        "frequency": 30,
+        "support_count": 5,
+        "ports_sequence": [
+          265,
+          997
+        ],
+        "ports_count": 2,
+        "ports_string": "265 → 997",
+        "countries_visited": [
+          "Cuba",
+          "Port 997 (North Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1309,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -67.99883496869977,
+            10.478609986408406
+          ],
+          [
+            -70.54529951,
+            29.12891659
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 58,
+        "frequency": 30,
+        "support_count": 5,
+        "ports_sequence": [
+          160,
+          997
+        ],
+        "ports_count": 2,
+        "ports_string": "160 → 997",
+        "countries_visited": [
+          "Venezuela",
+          "Port 997 (North Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1309,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.51583854057217,
+            10.650275215617736
+          ],
+          [
+            -54.67815623,
+            14.14679326
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 59,
+        "frequency": 20,
+        "support_count": 4,
+        "ports_sequence": [
+          1,
+          998
+        ],
+        "ports_count": 2,
+        "ports_string": "1 → 998",
+        "countries_visited": [
+          "Trinidad and Tobago",
+          "Port 998 (South Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.2,
+        "importance_score": 0.1293,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.490928792017534,
+            10.394481242262778
+          ],
+          [
+            -74.77325508772651,
+            10.989533806082758
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 60,
+        "frequency": 23,
+        "support_count": 4,
+        "ports_sequence": [
+          73,
+          136
+        ],
+        "ports_count": 2,
+        "ports_string": "73 → 136",
+        "countries_visited": [
+          "Trinidad and Tobago",
+          "Colombia"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1739,
+        "importance_score": 0.1257,
+        "is_generated_segment": NaN,
+        "has_special_ports": false,
+        "special_ports_in_pattern": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.9175703272089,
+            9.307011104921322
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 61,
+        "frequency": 24,
+        "support_count": 4,
+        "ports_sequence": [
+          435,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "435 → 999",
+        "countries_visited": [
+          "Panama",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1247,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -75.84787216448984,
+            20.01521222622584
+          ],
+          [
+            -70.54529951,
+            29.12891659
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 62,
+        "frequency": 24,
+        "support_count": 4,
+        "ports_sequence": [
+          275,
+          997
+        ],
+        "ports_count": 2,
+        "ports_string": "275 → 997",
+        "countries_visited": [
+          "Cuba",
+          "Port 997 (North Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1247,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -75.50810506776573,
+            10.328509927515173
+          ],
+          [
+            -70.54529951,
+            29.12891659
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 63,
+        "frequency": 24,
+        "support_count": 4,
+        "ports_sequence": [
+          134,
+          997
+        ],
+        "ports_count": 2,
+        "ports_string": "134 → 997",
+        "countries_visited": [
+          "Colombia",
+          "Port 997 (North Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1247,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -66.10276221631595,
+            18.451955705973642
+          ],
+          [
+            -70.54529951,
+            29.12891659
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 64,
+        "frequency": 24,
+        "support_count": 4,
+        "ports_sequence": [
+          200,
+          997
+        ],
+        "ports_count": 2,
+        "ports_string": "200 → 997",
+        "countries_visited": [
+          "Puerto Rico",
+          "Port 997 (North Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1247,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -76.81827394002187,
+            17.976763465557415
+          ],
+          [
+            -54.67815623,
+            14.14679326
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 65,
+        "frequency": 24,
+        "support_count": 4,
+        "ports_sequence": [
+          243,
+          998
+        ],
+        "ports_count": 2,
+        "ports_string": "243 → 998",
+        "countries_visited": [
+          "Jamaica",
+          "Port 998 (South Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1247,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.6964604988459,
+            9.015797720626201
+          ],
+          [
+            -70.54529951,
+            29.12891659
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 66,
+        "frequency": 24,
+        "support_count": 4,
+        "ports_sequence": [
+          126,
+          997
+        ],
+        "ports_count": 2,
+        "ports_string": "126 → 997",
+        "countries_visited": [
+          "Panama",
+          "Port 997 (North Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1247,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.90738834401907,
+            9.349210077003796
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 67,
+        "frequency": 24,
+        "support_count": 4,
+        "ports_sequence": [
+          128,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "128 → 999",
+        "countries_visited": [
+          "Panama",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1247,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.67757715353723,
+            21.345278786861027
+          ],
+          [
+            -70.54529951,
+            29.12891659
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 68,
+        "frequency": 24,
+        "support_count": 4,
+        "ports_sequence": [
+          325,
+          997
+        ],
+        "ports_count": 2,
+        "ports_string": "325 → 997",
+        "countries_visited": [
+          "Mexico",
+          "Port 997 (North Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1247,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.4781515779002,
+            22.160942829131752
+          ],
+          [
+            -54.67815623,
+            14.14679326
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 69,
+        "frequency": 24,
+        "support_count": 4,
+        "ports_sequence": [
+          265,
+          998
+        ],
+        "ports_count": 2,
+        "ports_string": "265 → 998",
+        "countries_visited": [
+          "Cuba",
+          "Port 998 (South Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1247,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.92413450373908,
+            12.116062302100206
+          ],
+          [
+            -54.67815623,
+            14.14679326
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 70,
+        "frequency": 24,
+        "support_count": 4,
+        "ports_sequence": [
+          66,
+          998
+        ],
+        "ports_count": 2,
+        "ports_string": "66 → 998",
+        "countries_visited": [
+          "Curacao",
+          "Port 998 (South Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1247,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.33666330251963,
+            20.95676703916011
+          ],
+          [
+            -70.54529951,
+            29.12891659
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 71,
+        "frequency": 18,
+        "support_count": 3,
+        "ports_sequence": [
+          336,
+          997
+        ],
+        "ports_count": 2,
+        "ports_string": "336 → 997",
+        "countries_visited": [
+          "Mexico",
+          "Port 997 (North Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1185,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.34213541549407,
+            23.130116578570547
+          ],
+          [
+            -54.67815623,
+            14.14679326
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 72,
+        "frequency": 18,
+        "support_count": 3,
+        "ports_sequence": [
+          250,
+          998
+        ],
+        "ports_count": 2,
+        "ports_string": "250 → 998",
+        "countries_visited": [
+          "Cuba",
+          "Port 998 (South Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1185,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -69.88053628966288,
+            18.47147805329265
+          ],
+          [
+            -54.67815623,
+            14.14679326
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 73,
+        "frequency": 18,
+        "support_count": 3,
+        "ports_sequence": [
+          211,
+          998
+        ],
+        "ports_count": 2,
+        "ports_string": "211 → 998",
+        "countries_visited": [
+          "Dominican Republic",
+          "Port 998 (South Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1185,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -75.59848665409125,
+            9.493906237872787
+          ],
+          [
+            -70.54529951,
+            29.12891659
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 74,
+        "frequency": 18,
+        "support_count": 3,
+        "ports_sequence": [
+          132,
+          997
+        ],
+        "ports_count": 2,
+        "ports_string": "132 → 997",
+        "countries_visited": [
+          "Colombia",
+          "Port 997 (North Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1185,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.38127750486808,
+            11.268750082665987
+          ],
+          [
+            -54.67815623,
+            14.14679326
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 75,
+        "frequency": 18,
+        "support_count": 3,
+        "ports_sequence": [
+          141,
+          998
+        ],
+        "ports_count": 2,
+        "ports_string": "141 → 998",
+        "countries_visited": [
+          "Colombia",
+          "Port 998 (South Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1185,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.3599117799489,
+            18.556576639531634
+          ],
+          [
+            -60.95471464676962,
+            13.72239194777458
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 76,
+        "frequency": 18,
+        "support_count": 3,
+        "ports_sequence": [
+          222,
+          3
+        ],
+        "ports_count": 2,
+        "ports_string": "222 → 3",
+        "countries_visited": [
+          "Haiti",
+          "Saint Lucia"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1185,
+        "is_generated_segment": NaN,
+        "has_special_ports": false,
+        "special_ports_in_pattern": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -76.81827394002187,
+            17.976763465557415
+          ],
+          [
+            -70.54529951,
+            29.12891659
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 77,
+        "frequency": 18,
+        "support_count": 3,
+        "ports_sequence": [
+          243,
+          997
+        ],
+        "ports_count": 2,
+        "ports_string": "243 → 997",
+        "countries_visited": [
+          "Jamaica",
+          "Port 997 (North Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1185,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.490928792017534,
+            10.394481242262778
+          ],
+          [
+            -61.7534918218545,
+            12.050809014528001
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 78,
+        "frequency": 10,
+        "support_count": 2,
+        "ports_sequence": [
+          73,
+          60
+        ],
+        "ports_count": 2,
+        "ports_string": "73 → 60",
+        "countries_visited": [
+          "Trinidad and Tobago",
+          "Grenada"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.2,
+        "importance_score": 0.118,
+        "is_generated_segment": NaN,
+        "has_special_ports": false,
+        "special_ports_in_pattern": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.7534918218545,
+            12.050809014528001
+          ],
+          [
+            -59.62977623934643,
+            13.104967113359564
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 79,
+        "frequency": 58,
+        "support_count": 3,
+        "ports_sequence": [
+          60,
+          43
+        ],
+        "ports_count": 2,
+        "ports_string": "60 → 43",
+        "countries_visited": [
+          "Grenada",
+          "Barbados"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.0517,
+        "importance_score": 0.1159,
+        "is_generated_segment": NaN,
+        "has_special_ports": false,
+        "special_ports_in_pattern": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.490928792017534,
+            10.394481242262778
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 80,
+        "frequency": 11,
+        "support_count": 2,
+        "ports_sequence": [
+          73,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "73 → 999",
+        "countries_visited": [
+          "Trinidad and Tobago",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1818,
+        "importance_score": 0.1149,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.490928792017534,
+            10.394481242262778
+          ],
+          [
+            -54.67815623,
+            14.14679326
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 81,
+        "frequency": 11,
+        "support_count": 2,
+        "ports_sequence": [
+          73,
+          998
+        ],
+        "ports_count": 2,
+        "ports_string": "73 → 998",
+        "countries_visited": [
+          "Trinidad and Tobago",
+          "Port 998 (South Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1818,
+        "importance_score": 0.1149,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -93.19159879036243,
+            18.433858588797264
+          ],
+          [
+            -70.54529951,
+            29.12891659
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 82,
+        "frequency": 11,
+        "support_count": 2,
+        "ports_sequence": [
+          331,
+          997
+        ],
+        "ports_count": 2,
+        "ports_string": "331 → 997",
+        "countries_visited": [
+          "Mexico",
+          "Port 997 (North Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1818,
+        "importance_score": 0.1149,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -69.31085065824905,
+            18.446471461647064
+          ],
+          [
+            -70.54529951,
+            29.12891659
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 83,
+        "frequency": 11,
+        "support_count": 2,
+        "ports_sequence": [
+          207,
+          997
+        ],
+        "ports_count": 2,
+        "ports_string": "207 → 997",
+        "countries_visited": [
+          "Dominican Republic",
+          "Port 997 (North Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1818,
+        "importance_score": 0.1149,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -67.99883496869977,
+            10.478609986408406
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 84,
+        "frequency": 11,
+        "support_count": 2,
+        "ports_sequence": [
+          160,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "160 → 999",
+        "countries_visited": [
+          "Venezuela",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1818,
+        "importance_score": 0.1149,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.7534918218545,
+            12.050809014528001
+          ],
+          [
+            -58.1692677229468,
+            6.808161052689902
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 85,
+        "frequency": 24,
+        "support_count": 3,
+        "ports_sequence": [
+          60,
+          316
+        ],
+        "ports_count": 2,
+        "ports_string": "60 → 316",
+        "countries_visited": [
+          "Grenada",
+          "Guyana"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.125,
+        "importance_score": 0.1133,
+        "is_generated_segment": NaN,
+        "has_special_ports": false,
+        "special_ports_in_pattern": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.16606148781164,
+            5.808743555477176
+          ],
+          [
+            -54.67815623,
+            14.14679326
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 86,
+        "frequency": 12,
+        "support_count": 2,
+        "ports_sequence": [
+          320,
+          998
+        ],
+        "ports_count": 2,
+        "ports_string": "320 → 998",
+        "countries_visited": [
+          "Suriname",
+          "Port 998 (South Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1124,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.1426175549526,
+            19.21438297757042
+          ],
+          [
+            -54.67815623,
+            14.14679326
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 87,
+        "frequency": 12,
+        "support_count": 2,
+        "ports_sequence": [
+          335,
+          998
+        ],
+        "ports_count": 2,
+        "ports_string": "335 → 998",
+        "countries_visited": [
+          "Mexico",
+          "Port 998 (South Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1124,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.36891051421395,
+            18.696835474387402
+          ],
+          [
+            -54.67815623,
+            14.14679326
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 88,
+        "frequency": 12,
+        "support_count": 2,
+        "ports_sequence": [
+          223,
+          998
+        ],
+        "ports_count": 2,
+        "ports_string": "223 → 998",
+        "countries_visited": [
+          "Haiti",
+          "Port 998 (South Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1124,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.38127750486808,
+            11.268750082664358
+          ],
+          [
+            -70.54529951,
+            29.12891659
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 89,
+        "frequency": 12,
+        "support_count": 2,
+        "ports_sequence": [
+          413,
+          997
+        ],
+        "ports_count": 2,
+        "ports_string": "413 → 997",
+        "countries_visited": [
+          "Colombia",
+          "Port 997 (North Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1124,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -62.6910769186209,
+            8.361881619681508
+          ],
+          [
+            -61.490928792017534,
+            10.394481242262778
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 90,
+        "frequency": 12,
+        "support_count": 2,
+        "ports_sequence": [
+          183,
+          73
+        ],
+        "ports_count": 2,
+        "ports_string": "183 → 73",
+        "countries_visited": [
+          "Venezuela",
+          "Trinidad and Tobago"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1124,
+        "is_generated_segment": NaN,
+        "has_special_ports": false,
+        "special_ports_in_pattern": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.40417774725057,
+            16.514452811826274
+          ],
+          [
+            -70.54529951,
+            29.12891659
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 91,
+        "frequency": 12,
+        "support_count": 2,
+        "ports_sequence": [
+          109,
+          997
+        ],
+        "ports_count": 2,
+        "ports_string": "109 → 997",
+        "countries_visited": [
+          "Belize",
+          "Port 997 (North Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1124,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.19544816848473,
+            19.75858972450867
+          ],
+          [
+            -70.54529951,
+            29.12891659
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 92,
+        "frequency": 12,
+        "support_count": 2,
+        "ports_sequence": [
+          227,
+          997
+        ],
+        "ports_count": 2,
+        "ports_string": "227 → 997",
+        "countries_visited": [
+          "Haiti",
+          "Port 997 (North Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1124,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.61360395125956,
+            10.588569672479217
+          ],
+          [
+            -54.67815623,
+            14.14679326
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 93,
+        "frequency": 12,
+        "support_count": 2,
+        "ports_sequence": [
+          148,
+          998
+        ],
+        "ports_count": 2,
+        "ports_string": "148 → 998",
+        "countries_visited": [
+          "Venezuela",
+          "Port 998 (South Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1124,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.06327459494223,
+            10.001003128077205
+          ],
+          [
+            -54.67815623,
+            14.14679326
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 94,
+        "frequency": 12,
+        "support_count": 2,
+        "ports_sequence": [
+          122,
+          998
+        ],
+        "ports_count": 2,
+        "ports_string": "122 → 998",
+        "countries_visited": [
+          "Costa Rica",
+          "Port 998 (South Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1124,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.90738834401907,
+            9.349210077003796
+          ],
+          [
+            -54.67815623,
+            14.14679326
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 95,
+        "frequency": 12,
+        "support_count": 2,
+        "ports_sequence": [
+          128,
+          998
+        ],
+        "ports_count": 2,
+        "ports_string": "128 → 998",
+        "countries_visited": [
+          "Panama",
+          "Port 998 (South Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1124,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.67757715353723,
+            21.345278786861027
+          ],
+          [
+            -54.67815623,
+            14.14679326
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 96,
+        "frequency": 12,
+        "support_count": 2,
+        "ports_sequence": [
+          325,
+          998
+        ],
+        "ports_count": 2,
+        "ports_string": "325 → 998",
+        "countries_visited": [
+          "Mexico",
+          "Port 998 (South Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1124,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -62.6910769186209,
+            8.361881619681508
+          ],
+          [
+            -54.67815623,
+            14.14679326
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 97,
+        "frequency": 12,
+        "support_count": 2,
+        "ports_sequence": [
+          183,
+          998
+        ],
+        "ports_count": 2,
+        "ports_string": "183 → 998",
+        "countries_visited": [
+          "Venezuela",
+          "Port 998 (South Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1124,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.1426175549526,
+            19.21438297757042
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 98,
+        "frequency": 12,
+        "support_count": 2,
+        "ports_sequence": [
+          335,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "335 → 999",
+        "countries_visited": [
+          "Mexico",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1124,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.1692677229468,
+            6.808161052689902
+          ],
+          [
+            -70.54529951,
+            29.12891659
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 99,
+        "frequency": 12,
+        "support_count": 2,
+        "ports_sequence": [
+          316,
+          997
+        ],
+        "ports_count": 2,
+        "ports_string": "316 → 997",
+        "countries_visited": [
+          "Guyana",
+          "Port 997 (North Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1124,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -64.593437416076,
+            10.24505612958058
+          ],
+          [
+            -70.54529951,
+            29.12891659
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 100,
+        "frequency": 12,
+        "support_count": 2,
+        "ports_sequence": [
+          165,
+          997
+        ],
+        "ports_count": 2,
+        "ports_string": "165 → 997",
+        "countries_visited": [
+          "Venezuela",
+          "Port 997 (North Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1124,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.19544816848473,
+            19.75858972450867
+          ],
+          [
+            -54.67815623,
+            14.14679326
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 101,
+        "frequency": 12,
+        "support_count": 2,
+        "ports_sequence": [
+          227,
+          998
+        ],
+        "ports_count": 2,
+        "ports_string": "227 → 998",
+        "countries_visited": [
+          "Haiti",
+          "Port 998 (South Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1124,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.3599117799489,
+            18.556576639531634
+          ],
+          [
+            -70.54529951,
+            29.12891659
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 102,
+        "frequency": 12,
+        "support_count": 2,
+        "ports_sequence": [
+          222,
+          997
+        ],
+        "ports_count": 2,
+        "ports_string": "222 → 997",
+        "countries_visited": [
+          "Haiti",
+          "Port 997 (North Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1124,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -81.5483185561045,
+            23.05965383725222
+          ],
+          [
+            -70.54529951,
+            29.12891659
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 103,
+        "frequency": 12,
+        "support_count": 2,
+        "ports_sequence": [
+          251,
+          997
+        ],
+        "ports_count": 2,
+        "ports_string": "251 → 997",
+        "countries_visited": [
+          "Cuba",
+          "Port 997 (North Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1124,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.88588324318818,
+            9.367578926189735
+          ],
+          [
+            -70.54529951,
+            29.12891659
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 104,
+        "frequency": 12,
+        "support_count": 2,
+        "ports_sequence": [
+          129,
+          997
+        ],
+        "ports_count": 2,
+        "ports_string": "129 → 997",
+        "countries_visited": [
+          "Panama",
+          "Port 997 (North Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1124,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.38127750486808,
+            11.268750082665987
+          ],
+          [
+            -70.54529951,
+            29.12891659
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 105,
+        "frequency": 12,
+        "support_count": 2,
+        "ports_sequence": [
+          141,
+          997
+        ],
+        "ports_count": 2,
+        "ports_string": "141 → 997",
+        "countries_visited": [
+          "Colombia",
+          "Port 997 (North Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1124,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.06327459494223,
+            10.001003128077205
+          ],
+          [
+            -70.54529951,
+            29.12891659
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 106,
+        "frequency": 12,
+        "support_count": 2,
+        "ports_sequence": [
+          122,
+          997
+        ],
+        "ports_count": 2,
+        "ports_string": "122 → 997",
+        "countries_visited": [
+          "Costa Rica",
+          "Port 997 (North Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1124,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -75.52637306742898,
+            10.391552271565017
+          ],
+          [
+            -54.67815623,
+            14.14679326
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 107,
+        "frequency": 12,
+        "support_count": 2,
+        "ports_sequence": [
+          135,
+          998
+        ],
+        "ports_count": 2,
+        "ports_string": "135 → 998",
+        "countries_visited": [
+          "Colombia",
+          "Port 998 (South Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1124,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -70.6996111902815,
+            19.8011656185106
+          ],
+          [
+            -70.54529951,
+            29.12891659
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 108,
+        "frequency": 12,
+        "support_count": 2,
+        "ports_sequence": [
+          201,
+          997
+        ],
+        "ports_count": 2,
+        "ports_string": "201 → 997",
+        "countries_visited": [
+          "Dominican Republic",
+          "Port 997 (North Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1667,
+        "importance_score": 0.1124,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -60.95471464676962,
+            13.72239194777458
+          ],
+          [
+            -58.1692677229468,
+            6.808161052689902
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 109,
+        "frequency": 16,
+        "support_count": 2,
+        "ports_sequence": [
+          3,
+          316
+        ],
+        "ports_count": 2,
+        "ports_string": "3 → 316",
+        "countries_visited": [
+          "Saint Lucia",
+          "Guyana"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.125,
+        "importance_score": 0.1061,
+        "is_generated_segment": NaN,
+        "has_special_ports": false,
+        "special_ports_in_pattern": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -63.04619865190779,
+            18.01207658933305
+          ],
+          [
+            -61.389744703907716,
+            15.307304018653623
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 110,
+        "frequency": 18,
+        "support_count": 2,
+        "ports_sequence": [
+          31,
+          69
+        ],
+        "ports_count": 2,
+        "ports_string": "31 → 69",
+        "countries_visited": [
+          "Sint Marteen",
+          "Dominica"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.1111,
+        "importance_score": 0.1043,
+        "is_generated_segment": NaN,
+        "has_special_ports": false,
+        "special_ports_in_pattern": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.34213541549407,
+            23.130116578570547
+          ],
+          [
+            -70.54529951,
+            29.12891659
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 111,
+        "frequency": 24,
+        "support_count": 2,
+        "ports_sequence": [
+          250,
+          997
+        ],
+        "ports_count": 2,
+        "ports_string": "250 → 997",
+        "countries_visited": [
+          "Cuba",
+          "Port 997 (North Atlantic Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 0.0833,
+        "importance_score": 0.1018,
+        "is_generated_segment": NaN,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.51583854057217,
+            10.650275215617736
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 112,
+        "frequency": 1,
+        "support_count": 1,
+        "ports_sequence": [
+          1,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "1 → 999",
+        "countries_visited": [
+          "Trinidad and Tobago",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 1.0,
+        "importance_score": 0.1,
+        "is_generated_segment": true,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.88588324318818,
+            9.367578926189735
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 113,
+        "frequency": 1,
+        "support_count": 1,
+        "ports_sequence": [
+          129,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "129 → 999",
+        "countries_visited": [
+          "Panama",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 1.0,
+        "importance_score": 0.1,
+        "is_generated_segment": true,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -60.95471464676962,
+            13.72239194777458
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 114,
+        "frequency": 1,
+        "support_count": 1,
+        "ports_sequence": [
+          3,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "3 → 999",
+        "countries_visited": [
+          "Saint Lucia",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 1.0,
+        "importance_score": 0.1,
+        "is_generated_segment": true,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -75.59848665409125,
+            9.493906237872787
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 115,
+        "frequency": 1,
+        "support_count": 1,
+        "ports_sequence": [
+          132,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "132 → 999",
+        "countries_visited": [
+          "Colombia",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 1.0,
+        "importance_score": 0.1,
+        "is_generated_segment": true,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.061509850102155,
+            14.599826650835857
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 116,
+        "frequency": 1,
+        "support_count": 1,
+        "ports_sequence": [
+          5,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "5 → 999",
+        "countries_visited": [
+          "Martinique",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 1.0,
+        "importance_score": 0.1,
+        "is_generated_segment": true,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.38127750486808,
+            11.268750082665987
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 117,
+        "frequency": 1,
+        "support_count": 1,
+        "ports_sequence": [
+          141,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "141 → 999",
+        "countries_visited": [
+          "Colombia",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 1.0,
+        "importance_score": 0.1,
+        "is_generated_segment": true,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.2824890917825,
+            12.083093188910468
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 118,
+        "frequency": 1,
+        "support_count": 1,
+        "ports_sequence": [
+          15,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "15 → 999",
+        "countries_visited": [
+          "Bonaire, Sint Eustatius and Saba",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 1.0,
+        "importance_score": 0.1,
+        "is_generated_segment": true,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -75.52637306742898,
+            10.391552271565017
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 119,
+        "frequency": 1,
+        "support_count": 1,
+        "ports_sequence": [
+          135,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "135 → 999",
+        "countries_visited": [
+          "Colombia",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 1.0,
+        "importance_score": 0.1,
+        "is_generated_segment": true,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -75.84787216448984,
+            20.01521222622584
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 120,
+        "frequency": 1,
+        "support_count": 1,
+        "ports_sequence": [
+          275,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "275 → 999",
+        "countries_visited": [
+          "Cuba",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 1.0,
+        "importance_score": 0.1,
+        "is_generated_segment": true,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.61360395125956,
+            10.588569672479217
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 121,
+        "frequency": 1,
+        "support_count": 1,
+        "ports_sequence": [
+          148,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "148 → 999",
+        "countries_visited": [
+          "Venezuela",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 1.0,
+        "importance_score": 0.1,
+        "is_generated_segment": true,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.38127750486808,
+            11.268750082664358
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 122,
+        "frequency": 1,
+        "support_count": 1,
+        "ports_sequence": [
+          413,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "413 → 999",
+        "countries_visited": [
+          "Colombia",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 1.0,
+        "importance_score": 0.1,
+        "is_generated_segment": true,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -63.04619865190779,
+            18.01207658933305
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 123,
+        "frequency": 1,
+        "support_count": 1,
+        "ports_sequence": [
+          31,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "31 → 999",
+        "countries_visited": [
+          "Sint Marteen",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 1.0,
+        "importance_score": 0.1,
+        "is_generated_segment": true,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -60.99406398448652,
+            14.011516182730462
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 124,
+        "frequency": 1,
+        "support_count": 1,
+        "ports_sequence": [
+          35,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "35 → 999",
+        "countries_visited": [
+          "Saint Lucia",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 1.0,
+        "importance_score": 0.1,
+        "is_generated_segment": true,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -64.593437416076,
+            10.24505612958058
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 125,
+        "frequency": 1,
+        "support_count": 1,
+        "ports_sequence": [
+          165,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "165 → 999",
+        "countries_visited": [
+          "Venezuela",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 1.0,
+        "importance_score": 0.1,
+        "is_generated_segment": true,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -59.62977623934643,
+            13.104967113359564
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 126,
+        "frequency": 1,
+        "support_count": 1,
+        "ports_sequence": [
+          43,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "43 → 999",
+        "countries_visited": [
+          "Barbados",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 1.0,
+        "importance_score": 0.1,
+        "is_generated_segment": true,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -62.71650454559074,
+            8.34063333657588
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 127,
+        "frequency": 1,
+        "support_count": 1,
+        "ports_sequence": [
+          184,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "184 → 999",
+        "countries_visited": [
+          "Venezuela",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 1.0,
+        "importance_score": 0.1,
+        "is_generated_segment": true,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.733741922089955,
+            15.996636663061702
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 128,
+        "frequency": 1,
+        "support_count": 1,
+        "ports_sequence": [
+          57,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "57 → 999",
+        "countries_visited": [
+          "Guadeloupe",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 1.0,
+        "importance_score": 0.1,
+        "is_generated_segment": true,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.64916149300696,
+            21.050014719158753
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 129,
+        "frequency": 1,
+        "support_count": 1,
+        "ports_sequence": [
+          312,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "312 → 999",
+        "countries_visited": [
+          "Bahamas",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 1.0,
+        "importance_score": 0.1,
+        "is_generated_segment": true,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.7534918218545,
+            12.050809014528001
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 130,
+        "frequency": 1,
+        "support_count": 1,
+        "ports_sequence": [
+          60,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "60 → 999",
+        "countries_visited": [
+          "Grenada",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 1.0,
+        "importance_score": 0.1,
+        "is_generated_segment": true,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.1692677229468,
+            6.808161052689902
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 131,
+        "frequency": 1,
+        "support_count": 1,
+        "ports_sequence": [
+          316,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "316 → 999",
+        "countries_visited": [
+          "Guyana",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 1.0,
+        "importance_score": 0.1,
+        "is_generated_segment": true,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.16606148781164,
+            5.808743555477176
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 132,
+        "frequency": 1,
+        "support_count": 1,
+        "ports_sequence": [
+          320,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "320 → 999",
+        "countries_visited": [
+          "Suriname",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 1.0,
+        "importance_score": 0.1,
+        "is_generated_segment": true,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.08888230592948,
+            5.61218806940481
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 133,
+        "frequency": 1,
+        "support_count": 1,
+        "ports_sequence": [
+          321,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "321 → 999",
+        "countries_visited": [
+          "Suriname",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 1.0,
+        "importance_score": 0.1,
+        "is_generated_segment": true,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.92413450373908,
+            12.116062302100206
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 134,
+        "frequency": 1,
+        "support_count": 1,
+        "ports_sequence": [
+          66,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "66 → 999",
+        "countries_visited": [
+          "Curacao",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 1.0,
+        "importance_score": 0.1,
+        "is_generated_segment": true,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.67757715353723,
+            21.345278786861027
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 135,
+        "frequency": 1,
+        "support_count": 1,
+        "ports_sequence": [
+          325,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "325 → 999",
+        "countries_visited": [
+          "Mexico",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 1.0,
+        "importance_score": 0.1,
+        "is_generated_segment": true,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.389744703907716,
+            15.307304018653623
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 136,
+        "frequency": 1,
+        "support_count": 1,
+        "ports_sequence": [
+          69,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "69 → 999",
+        "countries_visited": [
+          "Dominica",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 1.0,
+        "importance_score": 0.1,
+        "is_generated_segment": true,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -66.10276221631595,
+            18.451955705973642
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 137,
+        "frequency": 1,
+        "support_count": 1,
+        "ports_sequence": [
+          200,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "200 → 999",
+        "countries_visited": [
+          "Puerto Rico",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 1.0,
+        "importance_score": 0.1,
+        "is_generated_segment": true,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -70.6996111902815,
+            19.8011656185106
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 138,
+        "frequency": 1,
+        "support_count": 1,
+        "ports_sequence": [
+          201,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "201 → 999",
+        "countries_visited": [
+          "Dominican Republic",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 1.0,
+        "importance_score": 0.1,
+        "is_generated_segment": true,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -93.19159879036243,
+            18.433858588797264
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 139,
+        "frequency": 1,
+        "support_count": 1,
+        "ports_sequence": [
+          331,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "331 → 999",
+        "countries_visited": [
+          "Mexico",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 1.0,
+        "importance_score": 0.1,
+        "is_generated_segment": true,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -94.40681152049213,
+            18.1295323631508
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 140,
+        "frequency": 1,
+        "support_count": 1,
+        "ports_sequence": [
+          333,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "333 → 999",
+        "countries_visited": [
+          "Mexico",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 1.0,
+        "importance_score": 0.1,
+        "is_generated_segment": true,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.54185390048764,
+            16.23525338646997
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 141,
+        "frequency": 1,
+        "support_count": 1,
+        "ports_sequence": [
+          79,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "79 → 999",
+        "countries_visited": [
+          "Guadeloupe",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 1.0,
+        "importance_score": 0.1,
+        "is_generated_segment": true,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -59.65256110822241,
+            13.28423385744944
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 142,
+        "frequency": 1,
+        "support_count": 1,
+        "ports_sequence": [
+          81,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "81 → 999",
+        "countries_visited": [
+          "Barbados",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 1.0,
+        "importance_score": 0.1,
+        "is_generated_segment": true,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.88214045045873,
+            22.485302229487747
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 143,
+        "frequency": 1,
+        "support_count": 1,
+        "ports_sequence": [
+          338,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "338 → 999",
+        "countries_visited": [
+          "Mexico",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 1.0,
+        "importance_score": 0.1,
+        "is_generated_segment": true,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.85290808969623,
+            22.225202363678864
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 144,
+        "frequency": 1,
+        "support_count": 1,
+        "ports_sequence": [
+          337,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "337 → 999",
+        "countries_visited": [
+          "Mexico",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 1.0,
+        "importance_score": 0.1,
+        "is_generated_segment": true,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -70.01894436639236,
+            18.418675524148718
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 145,
+        "frequency": 1,
+        "support_count": 1,
+        "ports_sequence": [
+          212,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "212 → 999",
+        "countries_visited": [
+          "Dominican Republic",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 1.0,
+        "importance_score": 0.1,
+        "is_generated_segment": true,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.23221978382377,
+            13.153721280716272
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 146,
+        "frequency": 1,
+        "support_count": 1,
+        "ports_sequence": [
+          85,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "85 → 999",
+        "countries_visited": [
+          "Saint Vincent and the Grenadines",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 1.0,
+        "importance_score": 0.1,
+        "is_generated_segment": true,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.33666330251963,
+            20.95676703916011
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 147,
+        "frequency": 1,
+        "support_count": 1,
+        "ports_sequence": [
+          336,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "336 → 999",
+        "countries_visited": [
+          "Mexico",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 1.0,
+        "importance_score": 0.1,
+        "is_generated_segment": true,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -69.88053628966288,
+            18.47147805329265
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 148,
+        "frequency": 1,
+        "support_count": 1,
+        "ports_sequence": [
+          211,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "211 → 999",
+        "countries_visited": [
+          "Dominican Republic",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 1.0,
+        "importance_score": 0.1,
+        "is_generated_segment": true,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -69.31085065824905,
+            18.446471461647064
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 149,
+        "frequency": 1,
+        "support_count": 1,
+        "ports_sequence": [
+          207,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "207 → 999",
+        "countries_visited": [
+          "Dominican Republic",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 1.0,
+        "importance_score": 0.1,
+        "is_generated_segment": true,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.3599117799489,
+            18.556576639531634
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 150,
+        "frequency": 1,
+        "support_count": 1,
+        "ports_sequence": [
+          222,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "222 → 999",
+        "countries_visited": [
+          "Haiti",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 1.0,
+        "importance_score": 0.1,
+        "is_generated_segment": true,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.36891051421395,
+            18.696835474387402
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 151,
+        "frequency": 1,
+        "support_count": 1,
+        "ports_sequence": [
+          223,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "223 → 999",
+        "countries_visited": [
+          "Haiti",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 1.0,
+        "importance_score": 0.1,
+        "is_generated_segment": true,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.63301390378332,
+            10.680750410218444
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 152,
+        "frequency": 1,
+        "support_count": 1,
+        "ports_sequence": [
+          98,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "98 → 999",
+        "countries_visited": [
+          "Trinidad and Tobago",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 1.0,
+        "importance_score": 0.1,
+        "is_generated_segment": true,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.19544816848473,
+            19.75858972450867
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 153,
+        "frequency": 1,
+        "support_count": 1,
+        "ports_sequence": [
+          227,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "227 → 999",
+        "countries_visited": [
+          "Haiti",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 1.0,
+        "importance_score": 0.1,
+        "is_generated_segment": true,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -70.54529951,
+            29.12891659
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 154,
+        "frequency": 1,
+        "support_count": 1,
+        "ports_sequence": [
+          997,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "997 → 999",
+        "countries_visited": [
+          "Port 997 (North Atlantic Exit)",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 1.0,
+        "importance_score": 0.1,
+        "is_generated_segment": true,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          997,
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -54.67815623,
+            14.14679326
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 155,
+        "frequency": 1,
+        "support_count": 1,
+        "ports_sequence": [
+          998,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "998 → 999",
+        "countries_visited": [
+          "Port 998 (South Atlantic Exit)",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 1.0,
+        "importance_score": 0.1,
+        "is_generated_segment": true,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          998,
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.06327459494223,
+            10.001003128077205
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 156,
+        "frequency": 1,
+        "support_count": 1,
+        "ports_sequence": [
+          122,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "122 → 999",
+        "countries_visited": [
+          "Costa Rica",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 1.0,
+        "importance_score": 0.1,
+        "is_generated_segment": true,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.40417774725057,
+            16.514452811826274
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 157,
+        "frequency": 1,
+        "support_count": 1,
+        "ports_sequence": [
+          109,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "109 → 999",
+        "countries_visited": [
+          "Belize",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 1.0,
+        "importance_score": 0.1,
+        "is_generated_segment": true,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.61629710672634,
+            15.69651702806077
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 158,
+        "frequency": 1,
+        "support_count": 1,
+        "ports_sequence": [
+          110,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "110 → 999",
+        "countries_visited": [
+          "Guatemala",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 1.0,
+        "importance_score": 0.1,
+        "is_generated_segment": true,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.14088608585992,
+            17.819518038873092
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 159,
+        "frequency": 1,
+        "support_count": 1,
+        "ports_sequence": [
+          239,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "239 → 999",
+        "countries_visited": [
+          "Jamaica",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 1.0,
+        "importance_score": 0.1,
+        "is_generated_segment": true,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.60454669582944,
+            17.859482426567638
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 160,
+        "frequency": 1,
+        "support_count": 1,
+        "ports_sequence": [
+          238,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "238 → 999",
+        "countries_visited": [
+          "Jamaica",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 1.0,
+        "importance_score": 0.1,
+        "is_generated_segment": true,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.13061340936524,
+            17.889985387671675
+          ],
+          [
+            -79.41168144,
+            8.55265497
+          ]
+        ]
+      },
+      "properties": {
+        "type": "pattern",
+        "pattern_id": 161,
+        "frequency": 1,
+        "support_count": 1,
+        "ports_sequence": [
+          240,
+          999
+        ],
+        "ports_count": 2,
+        "ports_string": "240 → 999",
+        "countries_visited": [
+          "Jamaica",
+          "Port 999 (Panama Canal Exit)"
+        ],
+        "countries_count": 2,
+        "pattern_length": 2,
+        "support_rate": 1.0,
+        "importance_score": 0.1,
+        "is_generated_segment": true,
+        "has_special_ports": true,
+        "special_ports_in_pattern": [
+          999
+        ]
+      }
+    }
+  ]
+}
